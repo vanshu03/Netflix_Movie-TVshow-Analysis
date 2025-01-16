@@ -11,7 +11,7 @@ Queried the dataset to understand content distribution across genres, release ye
 2) Insights Generation:
 Identified patterns such as:
 A) The most popular genres.
-B)Trends in content production over time.
+B) Trends in content production over time.
 
 3) Advanced SQL Techniques:
 Utilized advanced SQL features, including:
